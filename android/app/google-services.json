@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43484119800",
+    "project_id": "chatting-lec",
+    "storage_bucket": "chatting-lec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43484119800:android:74f749cdb10b98504c710d",
+        "android_client_info": {
+          "package_name": "com.example.chatting_lec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43484119800-ncdt1uc9o6a16ges4hnae79s1kptimke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByThqvInHy_tI9yjkIbwWUGgrx8iOzZFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43484119800-ncdt1uc9o6a16ges4hnae79s1kptimke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
